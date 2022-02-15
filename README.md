@@ -1,4 +1,4 @@
-# trying to use bnn to trani a kws model
+# trying to use bnn to train a kws model
 
 
 ...
