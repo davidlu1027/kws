@@ -1,3 +1,3 @@
-KWS DNN model
+#KWS DNN model
 
-
+Verilog implementation
