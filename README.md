@@ -1,4 +1,3 @@
-#KWS DNN model
+KWS DNN model
 
 
-...
